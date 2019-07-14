@@ -100,7 +100,7 @@ Write a regular expression pattern to create a fuzzy search so that the results 
 js-standard-style
 
 #Credits
-Pair-programming with Corey and Sarah
+Sarah
 
 #License
 MIT © Sarah Fisher
